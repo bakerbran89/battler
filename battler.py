@@ -2,7 +2,7 @@ import time
 
 # Character stats
 Robot={"attack":45, "defense":60, "illusive":50}
-Martian={"attack":45, "defense":60, "illusive":50}
+Martian={"attack":50, "defense":40, "illusive":60}
 Velociraptor={"attack":45, "defense":60, "illusive":50}
 Warewolf={"attack":45, "defense":60, "illusive":50}
 # Characters
